@@ -1,0 +1,84 @@
+# לוטוגוטו — Generative Engine Optimization Map
+
+> A brand or business related to tissue and hygiene products, possibly a manufacturer, distributor, or retailer of tissues and related consumer goods.
+
+---
+
+## Pages
+
+### בית
+https://-307a0cb5.zappy5.app
+מוצרי היגיינה ידידותיים לסביבה לכל המשפחה מבית לוטוגוטו. טישו, מגבונים ועוד באיכות מעולה שמכבדת את כדור הארץ. היכנסו לעולם נקי וירוק יותר עכשיו!
+
+### אודות
+https://-307a0cb5.zappy5.app/about
+לוטוגוטו נולדה מאהבה למשפחה ולסביבה. גלו את החזון שלנו לייצור מוצרי היגיינה אורגניים ישראל ששומרים על התינוקות שלכם ועל עתיד ירוק. בואו להכיר אותנו לעומק!
+
+### מדריך לטיפול במשפחה
+https://-307a0cb5.zappy5.app/family-care-guide
+המדריך המלא לחיי משפחה נקיים ובריאים יותר. טיפים מעשיים לשימוש במוצרי טיפוח טבעיים לתינוקות ולכל הגילים, שיהפכו את הבית שלכם למקדש של רוגע. התחילו לקרוא עכשיו!
+
+### צור קשר
+https://-307a0cb5.zappy5.app/contact
+יש לכם שאלה על מוצרי היגיינה ידידותיים לסביבה? צוות לוטוגוטו כאן כדי להקשיב, לייעץ ולהתאים לכם את הפתרון המושלם למשפחה. השאירו פרטים ונחזור אליכם באהבה!
+
+### Products
+https://-307a0cb5.zappy5.app/products
+המוצרים שלנו - לוטוגוטו
+
+### Product Detail
+https://-307a0cb5.zappy5.app/product/:slug
+פרטי המוצר - לוטוגוטו
+
+### Category
+https://-307a0cb5.zappy5.app/category/:slug
+מוצרים - לוטוגוטו
+
+### תודה שפניתם אלינו
+https://-307a0cb5.zappy5.app/thank-you
+לוטוגוטו - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-307a0cb5.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-307a0cb5.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-307a0cb5.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About לוטוגוטו
+A brand or business related to tissue and hygiene products, possibly a manufacturer, distributor, or retailer of tissues and related consumer goods.
+
+## Target Audience
+- משפחות ידידותיות לסביבה
+- אנשים מודעים לבריאות
+- הורים טריים
+
+## Industry
+Consumer Goods / Hygiene Products
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-307a0cb5.zappy5.app/sitemap.xml
+- Robots: https://-307a0cb5.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-307a0cb5.zappy5.app/llms-full.txt
+- Products (JSON): https://-307a0cb5.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-307a0cb5.zappy5.app/product-feed.xml
